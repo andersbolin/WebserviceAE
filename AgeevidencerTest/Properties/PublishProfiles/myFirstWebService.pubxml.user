@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Anders\Documents\WEBSERVICE1</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AgeevidencerTest.dll">
+      <publishTime>07/24/2015 08:02:22</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>02/17/2015 18:47:08</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/13/2015 23:39:01</publishTime>
+    </File>
+    <File Include="bin/Web.Release.config">
+      <publishTime>06/12/2015 19:49:23</publishTime>
+    </File>
+    <File Include="bin/WebService.asmx">
+      <publishTime>06/12/2015 19:52:38</publishTime>
+    </File>
+    <File Include="bin/WebService.asmx.cs">
+      <publishTime>06/16/2015 22:06:46</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/13/2015 23:39:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/24/2015 08:02:23</publishTime>
+    </File>
+    <File Include="WebService.asmx">
+      <publishTime>06/12/2015 19:52:38</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
