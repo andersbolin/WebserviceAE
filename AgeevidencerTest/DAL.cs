@@ -124,6 +124,11 @@ namespace AgeevidencerTest
             }
         }
 
+        public void getPhotos()
+        {
+            //Check in test...
+        }
+
 
     }
 }
